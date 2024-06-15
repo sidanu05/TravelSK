@@ -986,12 +986,12 @@ section {
 }
 
 #portfolio .portfolio-item figure {
-  background: #f2f5f3;
+  background: #ddd4d4;
   overflow: hidden;
   height: 200px;
   position: relative;
-  border-radius: 6px 6px 0 0;
-  margin: 10;
+  border-radius: 4px 4px 0 0;
+  margin: 0;
 }
 
 #portfolio .portfolio-item figure:hover img {
@@ -1056,7 +1056,7 @@ section {
   background: #fff;
   text-align: center;
   padding: 30px;
-  height: 200px;
+  height: 150px;
   border-radius: 0 0 3px 3px;
 }
 
@@ -1080,7 +1080,7 @@ section {
   padding: 0;
   margin: 0;
   color: #000000;
-  font-weight: 500;
+  font-weight: 900;
   font-size: 14px;
   text-transform: uppercase;
   text-align: left; /* Teks akan menjadi rata kiri */
